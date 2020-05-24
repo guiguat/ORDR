@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/guiguat/ORDR/assets/icon.png" alt="ORDR" style="max-width:100%" width="60"></img>
+  <img src="https://github.com/guiguat/ORDR/blob/master/assets/icon.png" alt="ORDR" style="max-width:100%" width="60"></img>
 </p>
 <h1 align="center">ORDR - Gerenc. de Pedidos</h1>
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 # Preview
-![Preview ORDR Interfaces](https://github.com/guiguat/ORDR/assets/Preview.png)
+![Preview ORDR Interfaces](https://github.com/guiguat/ORDR/blob/master/assets/Preview.png)
 
 # Instalação
 
