@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="https://github.com/guiguat/ORDR/raw/master/OrdrAdmin/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" alt="ORDR" style="max-width:100%" width="60"></img>
+  <img src="https://github.com/guiguat/ORDR/assets/icon.png" alt="ORDR" style="max-width:100%" width="60"></img>
 </p>
 <h1 align="center">ORDR - Gerenc. de Pedidos</h1>
 <p align="center">
-  ORDR é uma aplicação com base em Nodejs e React-Native que ajuda atendentes de um restaurante a realizar vendas, pedidos e se comunicar com a cozinha de forma ágil além de informar a administração do restaurante, dados sobre a fatura diária do restaurante.
+  ORDR é uma aplicação fullstack com base em Nodejs e React-Native que ajuda atendentes de um restaurante a realizar vendas, pedidos e se comunicar com a cozinha de forma ágil além de informar a administração do restaurante, dados sobre a fatura diária do restaurante.
 </p>
 
-## Instalação
+# Preview
+![Preview ORDR Interfaces](https://github.com/guiguat/ORDR/assets/Preview.png)
+
+# Instalação
 
 **Para usar essa aplição é necessario ter instalado o NPM e Nodejs em seu computador**
 
@@ -38,15 +41,15 @@ npm start #Para produção
 npm run dev #Para executar com nodemon (Desenvolvimento)
 ```
 
-### Configurando o Firebase
+## Configurando o Firebase
 **Entre nas pastas Ordr e OrdrAdmin e em cada uma siga os passos:**
 
 Para entrar nas aplicações usando o Firebase Authentication será necessario criar um projeto na plataforma do Firebase e criar um novo aplicativo mobile(Um para a pasta Ordr e outro para a pasta OrdrAdmin), em seguida ativar a autenticação com Email/Password.
-Depois disso você terá que fazer download do arquivo google-services.json e copiar para a pasta 'Ordr(ou OrdrAdmin)android/app/'
+Depois, você terá que fazer download do arquivo google-services.json e copiar para a pasta 'Ordr(ou OrdrAdmin)android/app/'
 
 *Para entender melhor como configurar o firebase veja este [Video](https://www.youtube.com/watch?v=MxXyR0CN4v0)*
 
-Ápos configurado seu firebase e os apps, deixe seu emulador android rodando, entre em uma das pastas(Ordr ou OrdrAdmin) e execute:
+Após configurado seu firebase e os apps, deixe seu emulador android rodando, entre em uma das pastas(Ordr ou OrdrAdmin) e execute:
 ```bash
 npx react-native run android
 ```
