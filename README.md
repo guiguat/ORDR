@@ -6,7 +6,7 @@
   ORDR é uma aplicação fullstack com base em Nodejs e React-Native que ajuda atendentes de um restaurante a realizar vendas, pedidos e se comunicar com a cozinha de forma ágil além de informar a administração do restaurante, dados sobre a fatura diária do restaurante.
 </p>
 
-# This is a deprecated version of this project see the new version (Here)[https://github.com/guiguat/ordr-offline-desktop]
+# This is a deprecated version of this project see the new version [Here](https://github.com/guiguat/ordr-offline-desktop)
 
 # Preview
 ![Preview ORDR Interfaces](https://github.com/guiguat/ORDR/blob/master/assets/Preview.png)
